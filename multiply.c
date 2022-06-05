@@ -25,7 +25,7 @@ int main(){
         for(j=0;j<q;j++)
         {
             printf("Enter the numbers: ");
-            scanf("%d",&a[i][j]);
+            scanf("%d",&b[i][j]);
 
         }
     }
